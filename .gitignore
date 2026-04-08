@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+NPZFile/*.npz
+.spyderproject/
+.project/
+datasets/
